@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeifakaib.wishwellness.net/sitemap.xml
